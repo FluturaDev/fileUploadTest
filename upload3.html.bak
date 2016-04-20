@@ -10,8 +10,10 @@
 <!DOCTYPE html6>
 <!DOCTYPE html7>
 <!DOCTYPE html8>
+<<<<<<< HEAD
 <!DOCTYPE html8>
 <!DOCTYPE html8>
+=======
 <!DOCTYPE html9>
 <!DOCTYPE html9>
 <!DOCTYPE html9>
@@ -22,6 +24,7 @@
 <!DOCTYPE html11>
 <!DOCTYPE html11>
 <!DOCTYPE html11>
+>>>>>>> master
 <html lang="en">
   <head>
     <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"
